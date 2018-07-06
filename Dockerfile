@@ -1,3 +1,3 @@
 FROM alpine
-RUN mkdir v1 /
+RUN mkdir v2 /
 
